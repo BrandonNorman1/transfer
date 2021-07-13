@@ -1,0 +1,17 @@
+* Things to mention
+  - EAC work. Specifically my experience with working via multiple teams on one project
+  - ACM work. Highlight service to the community
+  - Goal. I want to lead. And I want to lead well to create good software.
+
+* Lets write
+ My end goal is to be able to lead a
+ team of software developers to create software governed by ------ tenents. The first tenent is brevity. Software should be concise and solve 
+the problem it is designed to solve in as little space as possible. The second tenent is extensibility. Software should be capable of adaptation with little effort on
+the side of the user.
+
+After working among a multitude of talented people at the Emerging Analytics center these past two years, I've become extrememly 
+team oriented. Creating excellent software requires the cooperation of the entire team of developers. 
+No one developer is capable of solving every problem. However, being able to bring the best out of each member of the team is imperative to a cohesive final product. I aim to 
+be a project leader that is not afraid to work closely with each component of my team to understand their capabilities and push them to exceed their limits. 
+I am a firm believer in being able to lead by example, and thus I am continuously working to diversify and hone my skillset. Should I come 
+upon something I am unfamiliar with, my first response is to learn more about it so that I may better serve not only possible future clients, but also the team I would work with.
